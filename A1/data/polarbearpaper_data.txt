@@ -1,0 +1,183 @@
+crockford	ice_decline	ice_stable	ice_natural	bear_threatened	bear_adapt	bear_ok	position	symbol	color	code	source
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_1	http://advocacy.britannica.com/blog/advocacy/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_3	http://www.americanthinker.com/
+no	no	yes	yes	no	NA	yes	contra	22	orange	blog_7	http://bishophill.squarespace.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_8	http://www.breitbart.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_9	http://co2coalition.org/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_10	http://www.carbonbrief.org/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_11	http://www.cfact.org/
+no	NA	NA	no	yes	NA	no	pro	23	blue	blog_12	http://churchillpolarbears.org
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_14	http://blogs.nature.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_15	http://www.climatesciencewatch.org/
+yes	no	yes	yes	no	yes	yes	contra	22	orange	blog_17	http://www.climatechangedispatch.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_18	http://www.climatedepot.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_19	http://climategate.nl/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_20	http://climatelessons.blogspot.nl/
+no	no	yes	yes	no	NA	yes	contra	22	orange	blog_21	https://climatesanity.wordpress.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_22	https://climatism.wordpress.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_23	http://blog.nature.org/science/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_24	http://dailycaller.com
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_25	http://www.davidsuzuki.org/blogs/
+no	yes	no	no	yes	no	no	pro	23	blue	blog_27	http://www.defenders.org/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_29	http://discoverykids.com/
+no	yes	no	no	yes	yes	no	pro	23	blue	blog_30	http://dotearth.blogs.nytimes.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_31	http://ecointernet.org/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_32	 http://www.encountersnorth.org/index.htm
+yes	no	no	NA	no	NA	yes	contra	22	orange	blog_33	http://www.fixthisnation.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_34	http://www.friendsofscience.org/
+yes	no	yes	NA	yes	NA	no	contra	22	orange	blog_35	http://www.thegatewaypundit.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_36	http://www.greenfacts.org/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_37	http://www.yorkblog.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_38	http://gizmodo.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_39	http://www.globalclimatescam.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_40	http://go3project.com/network2/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_42	http://greendustriesblog.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_43	http://antigreen.blogspot.nl/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_44	http://grist.org/
+yes	no	yes	yes	no	yes	yes	contra	22	orange	blog_45	http://www.thegwpf.org/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_46	http://www.heatisonline.org/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_47	http://hockeyschtick.blogspot.nl/
+no	no	yes	yes	no	NA	yes	contra	22	orange	blog_49	https://www.iceagenow.info/
+yes	no	yes	yes	no	yes	yes	contra	22	orange	blog_51	http://www.climatescienceinternational.org/
+no	no	yes	yes	no	yes	yes	contra	22	orange	blog_52	http://jennifermarohasy.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_53	http://junkscience.com/
+no	yes	no	no	yes	no	no	pro	23	blue	blog_55	http://www.nwf.org/
+no	no	yes	yes	no	NA	yes	contra	22	orange	blog_56	http://www.climatescience.org.nz/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_57	http://nofrakkingconsensus.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_58	https://notalotofpeopleknowthat.wordpress.com/
+yes	no	yes	yes	no	yes	yes	contra	22	orange	blog_59	http://notrickszone.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_60	http://phys.org/
+no	yes	no	no	yes	yes	no	pro	23	blue	blog_61	http://blogs.plos.org/
+yes	no	yes	yes	no	yes	yes	contra	22	orange	blog_62	http://polarbearscience.com/
+no	yes	no	no	yes	no	no	pro	23	blue	blog_63	http://www.polarbearsinternational.org
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_64	http://www.powerlineblog.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_65	http://www.principia-scientific.org/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_66	https://quixoteslaststand.com/
+no	no	yes	yes	no	NA	yes	contra	22	orange	blog_69	http://theresilientearth.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_70	http://scienceblogs.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_71	https://scholarsandrogues.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_72	https://www.sciencedaily.com/
+no	yes	no	no	yes	no	no	pro	23	blue	blog_73	https://blogs.scientificamerican.com/
+yes	no	yes	yes	no	yes	yes	contra	22	orange	blog_74	http://jer-skepticscorner.blogspot.nl/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_75	https://www.skepticalscience.com/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_76	http://sppiblog.org/
+no	no	yes	yes	no	NA	yes	contra	22	orange	blog_77	https://stevengoddard.wordpress.com/
+yes	yes	no	yes	no	yes	yes	contra	22	orange	blog_78	https://tallbloke.wordpress.com/
+no	yes	no	NA	yes	NA	no	pro	23	blue	blog_80	http://naturalexposures.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_81	http://thefrogthatjumpedout.blogspot.nl/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_82	http://blogs.nicholas.duke.edu/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_83	https://thingsbreak.wordpress.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_84	http://arctic.blogs.panda.org/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_85	https://hro001.wordpress.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_86	http://thinkprogress.org/
+yes	no	yes	NA	no	NA	yes	contra	22	orange	blog_87	http://tomnelson.blogspot.nl/
+yes	no	yes	NA	no	NA	yes	contra	22	orange	blog_88	http://tomremington.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_89	https://blogs.umass.edu/
+yes	no	yes	yes	no	yes	yes	contra	22	orange	blog_90	http://wattsupwiththat.com/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_91	http://www.arkive.org/
+no	no	yes	yes	no	yes	yes	contra	22	orange	blog_92	http://www.worldclimatereport.com/
+no	yes	no	no	yes	no	no	pro	23	blue	blog_93	http://www.yaleclimateconnections.org/
+no	yes	no	no	yes	no	mo	pro	23	blue	blog_94	http://blog.wwf.ca/blog/   
+no	yes	no	NA	yes	NA	no	pro	23	blue	blog_95	http://frontiersnorth.com/blog/ 
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_96	http://planet3.org
+no	yes	no	NA	yes	no	no	pro	23	blue	blog_97	http://www.go3project.org
+no	yes	no	yes	no	NA	yes	contra	22	orange	blog_98	http://www.lomborg.com
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_99	http://www.rationaloptimist.com/blog/
+no	yes	no	no	yes	no	no	pro	23	blue	blog_100	http://climatechangepsychology.blogspot.nl/
+no	yes	no	no	yes	NA	no	pro	23	blue	blog_101	http:/www.tomdispatch.com
+no	yes	no	NA	yes	no	no	pro	23	blue	blog_102	http://www.climateplus.info/
+no	yes	no	no	yes	no	no	pro	23	blue	blog_103	http://e360.yale.edu/
+yes	no	yes	yes	no	NA	yes	contra	22	orange	blog_104	http://scottishsceptic.co.uk/
+no	no	yes	yes	no	NA	yes	contra	22	orange	blog_105	http://perhapsallnatural.blogspot.nl/
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_4	Amstrup, S., Marcot, B. & Douglas, D.	2008	Arctic Sea Ice Decline: Observations, Projections, Mechanisms, and Implications (eds E. T. DeWeaver, C. M. Bitz and L.-B. Tremblay), ), American Geophysical Union, Washington, D.C 
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_5	Amstrup, S., et al.	2010	Nature 468, 955-958
+no	no	no	yes	no	yes	yes	contra	25	red	paper_6	Armstrong, J., Green, K. & Soon, W.	2008	Interfaces 38, 382-405
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_10	Bromaghin, Jeffrey F.; McDonald, Trent L.; Stirling, Ian; et al.	2015	Ecol. Appl. 25, 634-651
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_11	Cherry, S., Derocher, A., Thiemann, G. & Lunn, N.	2013	J. Anim. Ecol.  82, 912-921
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_16	Derocher, A. E.  Lunn, N., Stirling, I.	2004	Integr. Comp. Biol., 44(2), 163-176 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_17	Derocher, A. E.	2010	Nature, 468, 905-906 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_18	Derocher, A. E. et al.	2013	Cons. Lett. 6, 368-375
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_19	Durner, G. et al.	2009	Ecol. Mono. 79, 25-58
+no	no	no	yes	no	NA	no	contra	25	red	paper_20	Dyck, M., Soon, W., Baydack, R., Legates, D., Baliunas, S., Ball, T., Hancock, L.	2007	Ecol. Complex. 4, 73-84
+no	yes	no	no	NA	yes	NA	contra	25	red	paper_21	Dyck, M. & Kebreab, E.	2009	J. Mammol. 90, 585-593
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_22	de la Guardia, L., Derocher, A., Myers, P., van Scheltinga, A. & Lunn, N.	2013	Glob. Change Biol. 19, 2675-2687
+no	yes	no	no	NA	yes	NA	contra	25	red	paper_23	Gormezano, L., Rockwell, R.	2013	Ecol. & Evol. 3, 3509-3523 (2013). 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_25	Hamilton, S. et al.	2014	PLoS ONE 9,  doi: 10.1371/journal.pone.0113746
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_27	Hobson, K., Stirling, I. & Andriashek, D.	2009	Can. J. Zool. 87, 50-55
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_29	Hunter, C., Caswell, H., Runge, M., Regehr, E., Amstrup, S., Stirling, I	2010	Ecology, 91(10), 2883_2897,
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_30	Lunn, N., Servanty, S., Regehr, E., Converse, S., Richardson, E., Stirling, I	2014	Environment Canada Research Report.
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_31	Moln_r, P., Derocher, A., Thiemann, G., Lewis, M.	2010	Biological Conservation, 143, 1612-1622.
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_32	Moln_r, P., Derocher, A., Klanjseck, T., Lewis, M.	2011	 Nature Communications 2, Article 186.  
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_37	Obbard, M., McDonald, T., Howe, E., Regehr, E., Richardson, E.	2007	USGS Science Strategy to Support US Fish and Wildlife Service Polar Bear Listing Decision, Administrative Report. 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_38	OêNeill, S., Osborn, T., Hulme, M., Lorenzoni, I., Watkinson, A.	2008	Journal of Applied Ecology, 45, 1649-1659, 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_40	Peacock, E., Derocher, A., Thiemann, G., Stirling, I.	2011	Canadian Journal of Zoology, 89(5), 371-385, doi: 10.1139/z11-021.
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_46	Regehr, E., Lunn, N., Amstrup, S., Stirling, I.	2007	The Journal of Wildlife Management, 71(8), 2673-2683.
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_47	Regehr, E., Hunter, C., Caswell, H., Amstrup, S., Stirling, I.	2010	Journal of Animal Ecology, 79, 117-127
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_48	Regehr, Eric V.; Laidre, Kristin L.; Akcakaya, H. Resit; et al.	2016	Biol. Lett. 12,
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_50	Rode, K., Reist, J., Peacock, E., Stirling, I.	2010	Journal of Mammalogy, 91(6), 1517-1523, doi: 10.1644/09-MAMM-A-399.1. 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_51	Rode, K., Amstrup, S., Regehr, E.	2010	Ecological Applications, 20(3), 768-782.
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_52	Rode, K., Peacock, E., Taylor, M., Stirling, I., Born, E., Laidre, K., Wiig, è.	2012	Popul Ecol, 54, 3-18, 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_53	Rode, K., Regehr, E., Douglas, D., Durner, G., Derocher, A., Thiemann, G., Budge, S.	2014	Global Change Biology, 20(1), 76-88, doi: 10.1111/gcb.12339.
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_54	Rode, Karyn D.; Robbins, Charles T.; Nelson, Lynne; et al.	2015	Frontiers in Ecology and the Environment 13, 138_145
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_57	Stern, H. L. & Laidre, K. L.	2016	The Cryosphere 10, 2027-2041
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_61	Stirling, I., Derocher, A.	1993	Arctic, 46(3), 240-245.
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_62	Stirling, I., Lunn, N., and Iacozza, J.	1999	Arctic, 52, 294_306.
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_63	Stirling, I. & Parkinson, C. 	2006	Arctic 59, 261-275
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_64	Stirling, I., Derocher, A., Gough, W. & Rode, K.	2008	Ecol. Complex. 5, 193-201
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_65	Stirling, I. & Derocher, A. E. 	2012	Global Change Biol. 18, 2694-2706 (2012).
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_67	Tartu S, Bourgeon S, Aars J, Andersen M, Polder A, Thiemann GW, Welker JM, Routti H.	2017	Sci. Tot. Environ. 576, 409-419. 
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_68	Thiemann, G., Derocher, A. & Stirling, I.	2008	Oryx 42, 504-515
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_71	Wiig, è., Aars, J. & Born, E.	2008	Science Progress 91, 151-173
+no	no	no	no	no	yes	yes	contra	25	red	paper_72	York, J., Dowsley, M., Cornwell, A., Kuc, M.,Taylor, M.	2016	Ecology and Evolutio 6:  2897_2924
+no	NA	NA	yes	no	yes	yes	contra	25	red	paper_73	Dyck, M.G., Soon, W., Baydack, R.K., Legates, D.R., Baliunas, S., Ball, T.F., Hancock, L.O.	2008	Ecological Complexity 5: 289_302
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_74	Amstrup, S.C., Caswell, H., DeWeaver, E., Stirling, I., Douglas, D.C., Marcot, B.G., Hunter, C.M. 	2009	Interfaces 39:353-369.
+no	yes	NA	NA	yes	NA	no	pro	24	darkgreen	paper_78	Styrishave, Bjarne; Pedersen, Kathrine Eggers; Clarke, Olivier; et al.	2017	POLAR BIOLOGY   Volume: 40   Issue: 1   Pages: 37-49   Published: JAN 2017
+no	yes	no	NA	yes	NA	no	pro	24	darkgreen	paper_79	Luque, Sebastian P.; Ferguson, Steven H.; Breed, Greg A.	2014	JOURNAL OF EXPERIMENTAL MARINE BIOLOGY AND ECOLOGY  Volume: 461   Pages: 504-515   Published: DEC 2014
+no	yes	NA	no	yes	NA	no	pro	24	darkgreen	paper_84	Fagre, Anna C.; Patyk, Kelly A.; Nol, Pauline; et al.	2015	ECOHEALTH   Volume: 12   Issue: 3   Pages: 528-539   Published: SEP 2015
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_86	Andersen, Magnus; Aars, Jon	2016	POLAR RESEARCH   Volume: 35     Article Number: 26029   Published: 2016
+no	yes	NA	NA	yes	NA	no	pro	24	darkgreen	paper_89	Nuijten, R. J. M.; Hendriks, A. J.; Jenssen, B. M.; et al.	2016	ENVIRONMENTAL RESEARCH   Volume: 151   Pages: 50-57   Published: NOV 2016
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_92	Lunn, Nicholas J.; Servanty, Sabrina; Regehr, Eric V.; et al.	2016	ECOLOGICAL APPLICATIONS   Volume: 26   Issue: 5   Pages: 1302-1320   Published: JUL 2016
+no	yes	NA	NA	yes	no	no	pro	24	darkgreen	paper_94	Galicia, Melissa P.; Thiemann, Gregory W.; Dyck, Markus G.; et al.	2016	ECOLOGY AND EVOLUTION   Volume: 6   Issue: 16   Pages: 6005-6018   Published: AUG 2016
+no	yes	NA	NA	yes	NA	no	pro	24	darkgreen	paper_96	Hoover, Carie; Pitcher, Tony; Christensen, Villy	2013	ECOLOGICAL MODELLING   Volume: 264   Special Issue: SI   Pages: 130-142   Published: AUG 24 2013
+no	yes	NA	NA	yes	NA	no	pro	24	darkgreen	paper_98	Obbard, Martyn E.; Stapleton, Seth; Middel, Kevin R.; et al.	2015	POLAR BIOLOGY   Volume: 38   Issue: 10   Pages: 1713-1725   Published: OCT 2015
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_101	Atwood, Todd C.; Marcot, Bruce G.; Douglas, David C.; et al.	2016	ECOSPHERE   Volume: 7   Issue: 6     Article Number: e01370   Published: JUN 2016
+no	yes	NA	NA	yes	NA	no	pro	24	darkgreen	paper_103	McKinney, Melissa A.; Iverson, Sara J.; Fisk, Aaron T.; et al.	2013	GLOBAL CHANGE BIOLOGY   Volume: 19   Issue: 8   Pages: 2360-2372   Published: AUG 2013
+no	yes	NA	NA	yes	NA	NA	pro	24	darkgreen	paper_104	Ruehland, K. M.; Paterson, A. M.; Keller, W.; et al.	2013	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES  Volume: 280   Issue: 1772     Article Number: 20131887   Published: DEC 7 2013
+no	yes	NA	NA	yes	no	no	pro	24	darkgreen	paper_105	Bajzak, C. E.; Bernhardt, W.; Mosnier, A.; et al.	2013	POLAR BIOLOGY   Volume: 36   Issue: 4   Pages: 477-491   Published: APR 2013
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_106	Kutschera, V. E.; Frosch, C.; Janke, A.; et al.	2016	ANIMAL CONSERVATION   Volume: 19   Issue: 4   Pages: 337-349   Published: AUG 2016
+no	yes	NA	NA	yes	NA	no	pro	24	darkgreen	paper_112	Matejova, Miriam	2015	ENVIRONMENT   Volume: 57   Issue: 5   Pages: 14-23   Published: SEP 3 2015
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_113	Iverson, Samuel A.; Gilchrist, H. Grant; Smith, Paul A.; et al.	2014	PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES  Volume: 281   Issue: 1779     Article Number: 20133128   Published: MAR 22 2014
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_114	Stirling, Ian; van Meurs, Rinie	2015	POLAR BIOLOGY   Volume: 38   Issue: 8   Pages: 1301-1304   Published: AUG 2015
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_118	Pilfold, Nicholas W.; Derocher, Andrew E.; Stirling, Ian; et al.	2015	OIKOS   Volume: 124   Issue: 8   Pages: 1098-1107   Published: AUG 2015
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_122	Parsons, E. C. M.; Cornick, L. A.	2013	MARINE POLICY   Volume: 42   Pages: 178-179   Published: NOV 2013
+no	yes	no	NA	yes	NA	no	pro	24	darkgreen	paper_124	Peacock, Elizabeth; Taylor, Mitchell K.; Laake, Jeffrey; et al.	2013	JOURNAL OF WILDLIFE MANAGEMENT   Volume: 77   Issue: 3   Pages: 463-476   Published: APR 2013
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_127	Stapleton, Seth; Atkinson, Stephen; Hedman, Daryll; et al.	2014	BIOLOGICAL CONSERVATION   Volume: 170   Pages: 38-47   Published: FEB 2014
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_129	McCall, Alysa G.; Pilfold, Nicholas W.; Derocher, Andrew E.; et al.	2016	POPULATION ECOLOGY   Volume: 58   Issue: 3   Pages: 407-419   Published: JUL 2016
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_132	Iacozza, John; Ferguson, Steven H.	2014	POLAR BIOLOGY   Volume: 37   Issue: 6   Pages: 817-832   Published: JUN 2014
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_134	Chambellant, Magaly; Stirling, Ian; Ferguson, Steven H.	2013	MARINE ECOLOGY PROGRESS SERIES   Volume: 481   Pages: 269-+   Published: 2013
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_135	Voorhees, Hannah; Sparks, Rhonda; Huntington, Henry P.; et al.	2014	ARCTIC   Volume: 67   Issue: 4   Pages: 523-536   Published: DEC 2014
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_136	McKinney, Melissa A.; Atwood, Todd; Dietz, Rune; et al.	2014	ECOLOGY AND EVOLUTION   Volume: 4   Issue: 4   Pages: 516-527   Published: FEB 2014
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_139	Tyrrell, Martina; Clark, Douglas A.	2014	GLOBAL ENVIRONMENTAL CHANGE-HUMAN AND POLICY DIMENSIONS   Volume: 24   Pages: 363-372   Published: JAN 2014
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_141	Aars, Jon; Andersen, Magnus; Breniere, Agnes; et al.	2015	POLAR RESEARCH   Volume: 34     Article Number: 26612
+no	yes	no	no	yes	NA	no	pro	24	darkgreen	paper_142	Laidre, Kristin L.; Born, Erik W.; Heagerty, Patrick; et al.	2015	POLAR BIOLOGY   Volume: 38   Issue: 6   Pages: 879-893   Published: JUN 2015
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_143	Derocher, A.E., M. Andersen, O. Wiig, J. Aars, E. Hansen, M. Biuw	2011	Marine Ecology Progress Series Vol. 441: 273_279, 
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_145	McCall, A.G.,Andrew E. Derocher, Nicholas J. Lunn	2014	POLAR BIOLOGY   Volume: 38   Issue: 3   Pages: 343-355   Published: MAR 2015
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_146	Peacock E, Sonsthagen SA, Obbard ME, Boltunov A, Regehr EV, et al.	2015	PLoS ONE 10(1): e112021.
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_147	Sahanatien, V. & Andrew E. Derocher	2012	Animal Conservation
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_148	Sahanatien, V., Elizabeth Peacock & Andrew E. Derocher	2015	ECOLOGY AND EVOLUTION   Volume: 5   Issue: 14   Pages: 2851-2864   Published: JUL 2015
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_149	Stirling, I., Evan Richardson, Gregory W. Thiemann And Andrew E. Derocher	2008	ARCTIC 61:14_22
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_150	Stone, I., Andrew E. Derocher	2007	Polar Record 43:171 - 173
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_151	Towns, L., A. E. Derocher, I. Stirling, N. J. Lunn,  D. Hedman	2009	Spatial and temporal patterns of problem polar bears in Churchill, Manitoba
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_152	Towns, L., Derocher,A.E., Stirling, N. J. Lunn,  D.	2010	ARCTIC 63:206 _ 212. 
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_154	Amstrup, S.C.,  Ian Stirling, Tom S. Smith, Craig Perham, and Gregory W. Thiemann.  	2006	Polar Biology 29: 997-1002 
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_155	Durner, G., J. Whiteman, H. Harlow, S. C. Amstrup, E. Regehr, and M. Ben-David.	2011	Polar Biology 34:975-984
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_156	Durner, G.M., S.C. Amstrup and K. Ambrosius.	2006	ARCTIC VOL. 59, No. 1. P. 31_36.
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_157	Fischbach, A.S., ˆ S. C. Amstrup ˆ D. C. Douglas	2007	POLAR BIOLOGY   Volume: 30:1395-1405  
+no	yes	no	no	yes	NA	NA	pro	24	darkgreen	paper_158	Owen, M.A., R.R. Swaisgood, C. Slocomb, S.C. Amstrup, G.M. Durner, K. Simac, and A.P. Pressier. 	2014	J. Zoology 95: 36-43 
+no	yes	no	no	yes	NA	NA	pro	24	darkgreen	paper_159	Pagano, A. M., G. M. Durner, S. C. Amstrup, K. S. Simac, and G. S. York.	2012	Canadian Journal of Zoology 90:663-676
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_160	Stirling, I., T. L. McDonald, E.S. Richardson, E. V. Regehr4 and S. C. Amstrup.	2011	 Ecological Applications 21(3), 2011, pp. 859-876.  
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_161	Vongraven, D., Aars, J., Amstrup, S., Atkinson, S.N., 	2012	Ursus Monograph Series 5. 66 pp.
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_162	Whiteman, J.P., H.J. Harlow, G.M. Durner, R. Anderson-Sprecher, S. E. Albeke, E. V. Regehr, S. C. Amstrup, M. Ben-David.	2015	Science Vol. 349, Issue 6245:295-298
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_163	Regehr, E.V., Amstrup, S.C., and Stirling, Ian,	2006	U.S. Geological Survey Open-File Report 2006-1337, 20 p.
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_164	Cassandra M. Kirk, Steven Amstrup Rhonda Swor, Darce Holcomb, and Todd M. OÍHara	2010	EcoHealth: DOI: 10.1007/s10393-010-0322-1
+no	yes	no	no	yes	no	no	pro	24	darkgreen	paper_165	Cassandra M. Kirk, Steven Amstrup, Rhonda Swor, Darce Holcomb, and Todd M. OÍHara	2010	EcoHealth: DOI: 10.1007/s10393-010-0323-0
