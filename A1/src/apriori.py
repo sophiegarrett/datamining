@@ -1,6 +1,7 @@
+import sys
 #Template for Assignment 1.
-#Author:
-#Date:
+#Author: Eric Brigham
+#Date: September 16, 2018
 #Note: This implementation is not very efficient. 
 # Hint: @lru_cache(maxsize=None) is likely to be a 
 #   favourable decoration for some functions.
@@ -11,7 +12,11 @@
 #database: A list of sets of items
 #return: The number of sets in the database which itemset is a subset of. 
 def support(itemset, database):
-
+    count = 0
+    for x in database:
+        if itemset.issubset(x):
+            count+=1
+    return count
 
 #Computes the confidence of a given rule.
 #The rule takes the form precedent --> antecedent
@@ -19,7 +24,11 @@ def support(itemset, database):
 #antecedent: A set of items that is a superset of precedent
 #database: a list of sets of items.
 #return: The confidence in precedent --> antecedent.
-def confidence(precedent, antecedent, database):    
+###How often is item y occuring when x also occurs
+def confidence(precedent, antecedent, database):
+    #This can be done simply: support(antecedent)/support(precedent)   
+    confidence = support(antecedent, database)/support(precedent, database) 
+    return confidence
 
 #Finds all itemsets in database that have at least minSupport.
 #database: A list of sets of items.
@@ -27,7 +36,39 @@ def confidence(precedent, antecedent, database):
 #return: A list of sets of items, such that 
 #   s in return --> support(s,database) >= minSupport.
 def findFrequentItemsets(database, minSupport):
-                
+    FS = set([])
+    cands = set([])
+    for i in database:
+        for j in i:
+            setj = frozenset([j])
+            if setj not in cands:
+                cands.add(setj)
+    print "cands"
+    print cands
+    while len(cands) > 0:
+        H = set([])
+        for k in cands:
+            print "k"
+            print k
+            if support(k, database) >= minSupport:
+                H = H.union(frozenset([k]))
+        cands = set([])
+        print "H"
+        print H
+        for h in H:
+            for m in H:
+                if h != m:
+                    print h
+                    print m
+                    hset = set([h])
+                    temp = hset.union(m)
+                    print "temp"
+                    print temp
+                    cands = cands.union(temp)
+                    print "new cands"
+                    print cands
+        FS = FS.union(H)
+    return FS
     
 #Given a set of frequently occuring Itemsets, returns
 # a list of pairs of the form (precedent, antecedent)
@@ -39,26 +80,39 @@ def findFrequentItemsets(database, minSupport):
 #minConfidence: A real value between 0.0 and 1.0. 
 #return: A set or list of pairs of sets of items.
 def findRules(frequentItemsets, database, minConfidence):
-
+    Rules = set([])
+    for s in frequentItemsets: 
+        for i in frequentItemsets:
+            if i != s and s.issubset(i):
+                if confidence(s, i, database) >= minConfidence:
+                    Pair = set([s,i])
+                    Rules = Rules.union(Pair)
+    return Rules
 
 #Produces a visualization of frequent itemsets.
 def visualizeItemsets(frequentItemsets):
-    return 0
+    print frequentItemsets
 
 #Produces a visualization of rules.
 def visualizeRules(rules):
-    return 0
+    for r in rules:
+        print r
 
+def main():
+    dataset = []
+    with open('/Users/ericbrigham/Documents/test2.txt') as f:
+        lines = f.readlines()
+        for line in lines:
+            itemset = set([])
+            for item in line.split(", "):
+                item = item.replace("\n", "")
+                itemset.add(item)
+            dataset.append(itemset)
+    x = findFrequentItemsets(dataset, int(sys.argv[1]))
+    visualizeItemsets(x)
+    visualizeRules(findRules(x, dataset, float(sys.argv[2])))
 
-#Here's a simple test case:
-
-database = (frozenset([1,2,3]), frozenset([2,3]), frozenset([4,5]), frozenset([1,2]), frozenset([1,5]))
-out = findFrequentItemsets(database, 2)
-print(out) #should print something containing sets {1},{2},{3},{5},{1,2}, and {2,3}.
-
-#Should print something like {2} ===> {1,2}, {1} ===> {1,2}, {3} ===> {2,3}, and {2} === {2,3}
-for r in findRules(out, database,0.4):
-    print(str(r[0])+"  ===>   "+str(r[1]))
-    
+if __name__ == "__main__":
+    main()
 
         
