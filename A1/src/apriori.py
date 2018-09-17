@@ -27,8 +27,7 @@ def support(itemset, database):
 ###How often is item y occuring when x also occurs
 def confidence(precedent, antecedent, database):
     #This can be done simply: support(antecedent)/support(precedent)   
-    confidence = support(antecedent, database)/support(precedent, database) 
-    return confidence
+    return support(antecedent, database)/float(support(precedent, database))
 
 #Finds all itemsets in database that have at least minSupport.
 #database: A list of sets of items.
@@ -36,38 +35,29 @@ def confidence(precedent, antecedent, database):
 #return: A list of sets of items, such that 
 #   s in return --> support(s,database) >= minSupport.
 def findFrequentItemsets(database, minSupport):
-    FS = set([])
-    cands = set([])
+    FS = []
+    cands = []
     for i in database:
         for j in i:
-            setj = frozenset([j])
+            setj = set([j])
             if setj not in cands:
-                cands.add(setj)
-    print "cands"
-    print cands
+                cands.append(setj)
     while len(cands) > 0:
-        H = set([])
+        H = []
         for k in cands:
-            print "k"
-            print k
             if support(k, database) >= minSupport:
-                H = H.union(frozenset([k]))
-        cands = set([])
-        print "H"
-        print H
+                if k not in H:
+                    H.append(k)
+        cands = []
         for h in H:
             for m in H:
-                if h != m:
-                    print h
-                    print m
-                    hset = set([h])
-                    temp = hset.union(m)
-                    print "temp"
-                    print temp
-                    cands = cands.union(temp)
-                    print "new cands"
-                    print cands
-        FS = FS.union(H)
+                temp1 = h.union(m)
+                if h != m and temp1 not in cands:
+                    cands.append(temp1)
+        if H not in FS:
+            if H:
+                for x in H:
+                    FS.append(x)
     return FS
     
 #Given a set of frequently occuring Itemsets, returns
@@ -80,27 +70,28 @@ def findFrequentItemsets(database, minSupport):
 #minConfidence: A real value between 0.0 and 1.0. 
 #return: A set or list of pairs of sets of items.
 def findRules(frequentItemsets, database, minConfidence):
-    Rules = set([])
+    Rules = []
     for s in frequentItemsets: 
         for i in frequentItemsets:
             if i != s and s.issubset(i):
                 if confidence(s, i, database) >= minConfidence:
-                    Pair = set([s,i])
-                    Rules = Rules.union(Pair)
-    return Rules
+                    Rules.append((s, i))
+    return Rules 
 
 #Produces a visualization of frequent itemsets.
 def visualizeItemsets(frequentItemsets):
+    print "---Frequent Itemsets---"
     print frequentItemsets
 
 #Produces a visualization of rules.
 def visualizeRules(rules):
+    print "---Rules---"
     for r in rules:
-        print r
+        print (str(r[0]) + " ===> " + str(r[1]))
 
 def main():
     dataset = []
-    with open('/Users/ericbrigham/Documents/test2.txt') as f:
+    with open('/Users/ericbrigham/Desktop/datamining/A1/data/prepared_data_2.txt') as f:
         lines = f.readlines()
         for line in lines:
             itemset = set([])
@@ -114,5 +105,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-        
