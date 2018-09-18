@@ -81,18 +81,18 @@ def findRules(frequentItemsets, database, minConfidence):
 
 #Produces a visualization of frequent itemsets.
 def visualizeItemsets(frequentItemsets):
-    print "---Frequent Itemsets---"
-    print frequentItemsets
+    print("---Frequent Itemsets---")
+    print(frequentItemsets)
 
 #Produces a visualization of rules.
 def visualizeRules(rules):
-    print "---Rules---"
+    print("---Rules---")
     for r in rules:
         print (str(r[0]) + " ===> " + str(r[1]))
 
 def main():
     dataset = []
-    with open('/Users/ericbrigham/Desktop/datamining/A1/data/prepared_data_2.txt') as f:
+    with open('../data/prepared_data_2.txt') as f:
         lines = f.readlines()
         for line in lines:
             itemset = set([])
