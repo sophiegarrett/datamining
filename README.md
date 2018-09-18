@@ -1,7 +1,7 @@
 # Instructions for Building and Running the Code
 
 To build and run the code follow these instructions:
-- Clone the gut repository so that you have all the files on your machine. 
+- Clone the git repository so that you have all the files on your machine. 
 - Open the terminal/command line. 
 - Navigate to the file A1, then src, this is where apriori.py lives. 
 - Once here type in "python apriori.py (minSupport) (minConfidence)." 
