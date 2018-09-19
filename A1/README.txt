@@ -1,7 +1,10 @@
-Please provide instructions here for how to build and run your project.
+# Instructions for Building and Running the Code
 
-The preferred build system is make.
-
-If you do not know make, any other single command that will build and run your project is acceptable.
+To build and run the code follow these instructions:
+- Clone the git repository so that you have all the files on your machine. 
+- Open the terminal/command line. 
+- Navigate to the file A1, then src, this is where apriori.py lives. 
+- Once here type in "python apriori.py (minSupport) (minConfidence)." 
+- Note: you are meant to fill in (minSupport) and (minConfidence) yourself, minSupport is an intereger greater than one and minConfidence is a real number between 0.0 and 1.0.
 
 Data Source: https://datadryad.org/resource/doi:10.5061/dryad.v652r
